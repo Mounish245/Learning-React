@@ -1,0 +1,19 @@
+{
+  "name": "nsr",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mounish245/Learning-React.git"
+  },
+  "author": "Mounish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mounish245/Learning-React/issues"
+  },
+  "homepage": "https://github.com/Mounish245/Learning-React#readme"
+}
